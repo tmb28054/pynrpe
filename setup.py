@@ -38,7 +38,7 @@ with open('README.md', encoding='utf8') as readme_handler:
 setup_options = {
     'name': NAME,
     'version': get_changelog(),
-    'description': 'CloudFormation Cli',
+    'description': 'NRPE Checks writen in python',
     'long_description': README,
     'author': 'Topaz Bott',
     'author_email': 'topaz@topazhome.net',
