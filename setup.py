@@ -42,11 +42,11 @@ setup_options = {
     'long_description': README,
     'author': 'Topaz Bott',
     'author_email': 'topaz@topazhome.net',
-    'url': 'https://github.com/tmb28054/pynrpe'
+    'url': 'https://github.com/tmb28054/pynrpe',
     'scripts': [],
     'license': "Apache License 2.0",
     'package_data': {
-        'NAME': []
+        'NAME': [],
     },
     'entry_points': {
         'console_scripts': [
